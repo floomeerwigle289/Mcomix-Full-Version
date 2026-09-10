@@ -257,3 +257,6 @@ This repository serves as the official landing page for MComix. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MComix today!**
+
+---
+**Last updated:** 2026-09-10 08:35:35 UTC
