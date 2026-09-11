@@ -259,4 +259,4 @@ This repository serves as the official landing page for MComix. The software is 
 **Get the most recent version of MComix today!**
 
 ---
-**Last updated:** 2026-09-10 22:53:39 UTC
+**Last updated:** 2026-09-11 00:46:52 UTC
